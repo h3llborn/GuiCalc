@@ -1,2 +1,2 @@
 # GuiCalc
-Gui Cal for Fanshawe 3061
+Gui Cal for Fanshawe INFO 3061
